@@ -28,7 +28,7 @@
 
 <property> 
 <name>dfs.block.size</name> 
-<value>536870912</value> 
+<value>134217728</value> 
 <description>Block size</description> 
 </property>
 <property>
