@@ -38,6 +38,7 @@
   <name>yarn.resourcemanager.admin.address</name>
   <value>slave12:8033</value>
 </property>
+<!--
 <property>
   <name>yarn.nodemanager.resource.memory-mb</name>
   <value>2048</value>
@@ -54,4 +55,5 @@
   <name>yarn.scheduler.minimum-allocation-vcores</name>
   <value>1</value>
 </property>
+-->
 </configuration>
